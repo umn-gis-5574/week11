@@ -28,7 +28,7 @@ http://bl.ocks.org/pdbartsch/raw/ac5fdd2f0c09e8ff3a4d/
 #### Others?
 
 ## Assignment
-For our next meeting (which will be 12/1, the Tuesday following Thanksgiving), I would like each group to start and have made some progress on a website for your project. It can be very rough and lacking in content (I suggest [Hipster Ipsum](hipsum.co), which provides "Artisanal filler text for your site or project."), but I'd like to see something. And, you'll get a chance to see everything you've accomplished thus far!
+For our next meeting (which will be 12/1, the Tuesday following Thanksgiving), I would like each group to start and have made some progress on a website for your project. It can be very rough and lacking in content (I suggest [Hipster Ipsum](http://hipsum.co), which provides "Artisanal filler text for your site or project."), but I'd like to see something. And, you'll get a chance to see everything you've accomplished thus far!
 
 ### Logistics
 If you aren't using one currently, you should create a github repository for your project and use that (and github.io) for all of your storing/serving needs. I can create repos in our umn-gis-5574 organizational space and then add project members to it, or if you'd prefer, one person from each group could just create the repo on their account and add everyone else as collaborators. Doesn't matter!
